@@ -40,7 +40,7 @@ function App() {
         <Rocket className="rocket" />
         <div className="item1 flex-item">
           <div className="content">
-            Ey &#128075;, <br />
+            Ey <span role='img'>&#128075;</span>, <br />
             It's <span>Teresa Romero, </span>
             <br />A frontend Developer.
             <div className="hashtags">
